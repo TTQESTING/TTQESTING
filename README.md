@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://discord.com/invite/bilgeemiryt" >
-   <img src="https://lanyard.kyrie25.me/api/798099497711960065?imgStyle=square&waveColor=FF597B&waveSpotifyColor=FF597B"  />
+   <img src="https://lanyard.kyrie25.me/api/798099497711960065?imgStyle=square&waveColor=FF597B"  />
   </a>
 </div>
 <h1 align="center">🤍 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 🤍</h1>
