@@ -15,8 +15,6 @@
   <li>
  <b>Live in:</b> Turkey</li>
 <li>
-</li>
-<li>
 <b>Gender:</b> he/him/Male
 </li>
 <li>
