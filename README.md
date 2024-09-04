@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://egirl.ing/" >
-   <img src="https://lanyard.kyrie25.me/api/798099497711960065?waveColor=8B8BFA&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+   <img src="https://lanyard.kyrie25.me/api/798099497711960065"  />
   </a>
 </div>
 <h1 align="center">🤍 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 🤍</h1>
