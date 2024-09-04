@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://egirl.ing/" >
+  <a href="https://discord.com/invite/bilgeemiryt" >
    <img src="https://lanyard.kyrie25.me/api/798099497711960065"  />
   </a>
 </div>
