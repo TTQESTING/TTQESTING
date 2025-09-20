@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://discord.gg/masonlar" >
-   <img src="https://lanyard.kyrie25.me/api/798099497711960065?imgStyle=square&waveColor=FF597B&waveSpotifyColor=#50ff46"  />
-  </a>
+  <a href="https://discord.com/users/768389440452034580"><img src="https://lanyard.kyrie25.dev/api/768389440452034580" /></a>
 </div>
 <h1 align="center">🤍 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 🤍</h1>
 <img src="./header.svg" width="10000">
