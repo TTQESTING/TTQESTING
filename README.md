@@ -6,7 +6,7 @@
 
 # 💫 About Me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   <div align="center">
-<img src="https://media.giphy.com/media/dhh0Kb67J1ZBK/giphy.gif?cid=790b7611mf82m3egc8932h4da3nt05oencrsafnk23mvb5zm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="220" height="200" align="right">
+<img src="https://i.pinimg.com/originals/b9/24/73/b92473457107373013c3713dc96bb319.gif" width="540" height="460" align="right">
   </div>
   <li>
  <b>Age:</b> 16</li>
