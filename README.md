@@ -34,4 +34,4 @@
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bots,discordjs,ai,lua,nodejs,robloxstudio,vscode)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?TTQESTING=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?TTQESTING=anuraghazra)](FIX ONE DAY)
