@@ -33,5 +33,3 @@
   <h1>💻 Tech Stack :</h1>
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bots,discordjs,ai,lua,nodejs,robloxstudio,vscode)](https://skillicons.dev)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?TTQESTING=anuraghazra)](FIX ONE DAY)
