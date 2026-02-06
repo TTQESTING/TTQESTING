@@ -34,7 +34,14 @@
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bots,discordjs,ai,lua,nodejs,robloxstudio,vscode)](https://skillicons.dev)
 
-<!-- GitHub Stats Cards -->
-![](https://github-readme-stats.vercel.app/api?username=TTQESTING&theme=dark&hide_border=true&include_all_commits=false&count_private=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TTQESTING&theme=dark&hide_border=true&langs_count=8&layout=compact)
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?TTQESTING=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?TTQESTING=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?TTQESTING=anuraghazra&show_icons=true" />
+</picture>
