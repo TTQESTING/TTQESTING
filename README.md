@@ -9,7 +9,7 @@
 <img src="https://i.pinimg.com/originals/b9/24/73/b92473457107373013c3713dc96bb319.gif" width="220" height="200" align="right">
   </div>
   <li>
- <b>Age:</b> 16</li>
+ <b>Age:</b> 17</li>
   <li>
  <b>Live in:</b> Turkey</li>
 <li>
