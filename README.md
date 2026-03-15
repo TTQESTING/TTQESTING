@@ -1,6 +1,5 @@
 <div align="center">
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/768389440452034580?theme=dark\&showBanner=true\&borderRadius=10px\&animated=true\&idleMessage=Discord:%20tt_qesting0\&showDisplayName=true\&animatedDecoration=true\&waveColor=EA00FF\&waveSpotifyColor=FF006A)](https://discord.com/users/768389440452034580)
+  <a href="https://discord.gg/xjuaq9sV5v"><img src="https://lanyard.kyrie25.dev/api/768389440452034580?animated=true&animatedDecoration=true&hideNameplate=false&hideTimestamp=false&hideBadges=false&hideDiscrim=false&showDisplayName=true&hideDecoration=false&theme=dark&showBanner=true&waveColor=EA00FF&waveSpotifyColor=FF006A" /></a>
 </div>
 <h1 align="center">🤍 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 🤍</h1>
 <img src="./header.svg" width="10000">
