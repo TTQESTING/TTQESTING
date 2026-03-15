@@ -1,5 +1,6 @@
 <div align="center">
-  <a href="https://discord.gg/xjuaq9sV5v"><img src="https://api.lanyard.rest/v1/users/768389440452034580" /></a>
+  
+  <a href="https://discord.gg/xjuaq9sV5v"><img src="https://lanyard.kyrie25.dev/api/768389440452034580?animated=true&animatedDecoration=true&hideNameplate=false&hideTimestamp=false&hideBadges=false&hideDiscrim=false&showDisplayName=true&hideDecoration=false&theme=dark&showBanner=true&waveColor=EA00FF&waveSpotifyColor=FF006A" /></a>
 </div>
 <h1 align="center">🤍 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 🤍</h1>
 <img src="./header.svg" width="10000">
