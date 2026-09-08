@@ -16,7 +16,7 @@
 <b>Gender:</b> he/him/Male
 </li>
 <li>
-<b>Site:</b> https://ttqesting.netlify.app
+<b>Site:</b> BAKIM
 </li>
 <li>
 <b>Hobbys:</b> Coding, Making Games, Creating Content
